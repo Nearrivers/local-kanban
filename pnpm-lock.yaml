@@ -18,6 +18,7 @@ specifiers:
   dotenv: ^16.0.1
   electron: ^19.0.9
   jasmine-core: ~4.2.0
+  kanban-backend-lib: link:kanban-core-lib
   karma: ~6.4.0
   karma-chrome-launcher: ~3.1.0
   karma-coverage: ~2.2.0
@@ -41,6 +42,7 @@ dependencies:
   '@ngx-translate/core': 14.0.0_36wbdubzobvek5dwkv7hqxvz7e
   dotenv: 16.0.1
   electron: 19.0.9
+  kanban-backend-lib: link:kanban-core-lib
   log4js: 6.7.0
   rxjs: 7.5.6
   tslib: 2.4.0
